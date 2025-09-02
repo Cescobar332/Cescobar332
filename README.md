@@ -24,6 +24,12 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Cescobar332/Cescobar332)
 
+
+### ✨ Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <!--
 **Cescobar332/Cescobar332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
