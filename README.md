@@ -33,7 +33,7 @@
 4. <br>
 5. <br>
 <!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->![image](https://github.com/user-attachments/assets/744bd141-78dd-4e30-ad95-94fa3ba6761b)
+<!--RECENT_ACTIVITY:last_update-->
 
 <!--
 **Cescobar332/Cescobar332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
