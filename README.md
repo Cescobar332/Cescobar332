@@ -1,51 +1,29 @@
-## Hi there 👋
+## Hi there  👋
 
-💻 **Ingeniero de Sistemas de la Universidad Autónoma de Bucaramanga**
+¡Soy **Cescobar**, Ingeniero de Sistemas de la **Universidad Autónoma de Bucaramanga 📝**, practicante en **Sistemas y Computadores S.A. 💻** y apasionado por la tecnología 🧑‍💻, el fútbol ⚽ y los autos 🏎️. Suelo jugar videojuegos 🎮, leer mucho 📖 y siempre estoy dispuesto a conversar sobre cualquier tema 💬.
 
-📝 **Practicante en Sistemas y Computadores S.A.**
+-  **Lenguaje preferido:** Python 🐍
+-  **Amante de los gatos 🐈‍⬛** 
+-  **Contáctame:** [cescobar332@unab.edu.co](mailto:cescobar332@unab.edu.co)
 
-🏎️ **Fan de los autos, carreras y simuladores**
+---
 
-⚽ **Mi pasión es el fútbol**
+###  Mis pasiones
 
-🎮 **Suelo jugar en mis ratos libres**
+| Tema | Detalles |
+|------|----------|
+|  Ingeniería de Sistemas | Desarrollo web, móvil y automatización |
+|  Automovilismo & Videojuegos | Siempre entrenando mis habilidades |
+|  Fútbol | Orgullo por mi estadio y mi selección 💛💚|
+|  Lectura | Desde ciencia ficción hasta tecnología |
 
-📖 **Lector empedernido**
+---
 
-🐍 **Lenguaje preferido**
-
-🐈‍⬛ **Amante de los gatos**
-
-💬 **Me puedes preguntar de cualquier tema**
-
-📫 **Correo: cescobar332@unab.edu.co**
-
-🎲 **Fun fact: También subo contenido en YouTube y Twitch**
-
+###  Actividad reciente
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Cescobar332/Cescobar332)
 
+> Última actualización: <!--RECENT_ACTIVITY:last_update-->
 
-### ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. <br>
-2. <br>
-3. <br>
-4. <br>
-5. <br>
+
 <!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-
-<!--
-**Cescobar332/Cescobar332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
