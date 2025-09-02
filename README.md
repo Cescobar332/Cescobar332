@@ -27,6 +27,12 @@
 
 ### ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
+1. <br>
+2. <br>
+3. <br>
+4. <br>
+5. <br>
+<!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->![image](https://github.com/user-attachments/assets/744bd141-78dd-4e30-ad95-94fa3ba6761b)
 
 <!--
