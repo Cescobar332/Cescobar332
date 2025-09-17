@@ -25,9 +25,9 @@
 > Última actualización: <!--RECENT_ACTIVITY:last_update-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Cescobar332/curso_bbdd_sql](https://github.com/Cescobar332/curso_bbdd_sql)<br>
-2. 📔 Created new repository [Cescobar332/curso_manipulacion_arrays_js](https://github.com/Cescobar332/curso_manipulacion_arrays_js)<br>
-3. 📔 Created new repository [Cescobar332/curso_javascript_desde_cero](https://github.com/Cescobar332/curso_javascript_desde_cero)<br>
-4. 📔 Created new repository [Cescobar332/curso_intermedio_poo_js](https://github.com/Cescobar332/curso_intermedio_poo_js)<br>
-5. 📔 Created new repository [Cescobar332/curso_practico_html_css](https://github.com/Cescobar332/curso_practico_html_css)<br>
+1. ⬆️ Pushed 1 commit(s) to [Cescobar332/curso_bbdd_sql](https://github.com/Cescobar332/curso_bbdd_sql)<br>
+2. ⬆️ Pushed 1 commit(s) to [Cescobar332/curso_bbdd_sql](https://github.com/Cescobar332/curso_bbdd_sql)<br>
+3. ⬆️ Pushed 1 commit(s) to [Cescobar332/curso_bbdd_sql](https://github.com/Cescobar332/curso_bbdd_sql)<br>
+4. 📔 Created new repository [Cescobar332/curso_bbdd_sql](https://github.com/Cescobar332/curso_bbdd_sql)<br>
+5. 📔 Created new repository [Cescobar332/curso_manipulacion_arrays_js](https://github.com/Cescobar332/curso_manipulacion_arrays_js)<br>
 <!--RECENT_ACTIVITY:end-->
