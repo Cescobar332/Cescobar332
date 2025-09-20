@@ -25,7 +25,7 @@
 > Última actualización: <!--RECENT_ACTIVITY:last_update-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Cescobar332/master_sql_server](https://github.com/Cescobar332/master_sql_server)<br>
+1. ⬆️ Pushed 1 commit(s) to [Cescobar332/curso_bbdd_sql](https://github.com/Cescobar332/curso_bbdd_sql)<br>
 2. ⬆️ Pushed 1 commit(s) to [Cescobar332/master_sql_server](https://github.com/Cescobar332/master_sql_server)<br>
 3. ⬆️ Pushed 1 commit(s) to [Cescobar332/master_sql_server](https://github.com/Cescobar332/master_sql_server)<br>
 4. ⬆️ Pushed 1 commit(s) to [Cescobar332/master_sql_server](https://github.com/Cescobar332/master_sql_server)<br>
