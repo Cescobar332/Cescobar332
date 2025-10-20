@@ -29,5 +29,4 @@
 2. 🔱 Forked [Cescobar332/curso-testing-js](https://github.com/Cescobar332/curso-testing-js) from [Cescobar332/curso-testing-js](https://github.com/Cescobar332/curso-testing-js)<br>
 3. ⬆️ Pushed undefined commit(s) to [Cescobar332/curso_bbdd_sql](https://github.com/Cescobar332/curso_bbdd_sql)<br>
 4. ⬆️ Pushed undefined commit(s) to [Cescobar332/curso_bbdd_sql](https://github.com/Cescobar332/curso_bbdd_sql)<br>
-5. ⬆️ Pushed undefined commit(s) to [Cescobar332/curso_asincronismo_js](https://github.com/Cescobar332/curso_asincronismo_js)<br>
 <!--RECENT_ACTIVITY:end-->
