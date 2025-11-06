@@ -26,8 +26,8 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Cescobar332/curso_reactjs](https://github.com/Cescobar332/curso_reactjs)<br>
-2. ⬆️ Pushed undefined commit(s) to [Cescobar332/curso_apis_dotnet_swagger_dapper_sqlserver](https://github.com/Cescobar332/curso_apis_dotnet_swagger_dapper_sqlserver)<br>
-3. ⬆️ Pushed undefined commit(s) to [Cescobar332/curso_reactjs](https://github.com/Cescobar332/curso_reactjs)<br>
-4. ⬆️ Pushed undefined commit(s) to [Cescobar332/curso-testing-js](https://github.com/Cescobar332/curso-testing-js)<br>
-5. 🔱 Forked [Cescobar332/curso-testing-js](https://github.com/Cescobar332/curso-testing-js) from [Cescobar332/curso-testing-js](https://github.com/Cescobar332/curso-testing-js)<br>
+2. ⬆️ Pushed undefined commit(s) to [Cescobar332/curso_reactjs](https://github.com/Cescobar332/curso_reactjs)<br>
+3. ⬆️ Pushed undefined commit(s) to [Cescobar332/curso_apis_dotnet_swagger_dapper_sqlserver](https://github.com/Cescobar332/curso_apis_dotnet_swagger_dapper_sqlserver)<br>
+4. ⬆️ Pushed undefined commit(s) to [Cescobar332/curso_reactjs](https://github.com/Cescobar332/curso_reactjs)<br>
+5. ⬆️ Pushed undefined commit(s) to [Cescobar332/curso-testing-js](https://github.com/Cescobar332/curso-testing-js)<br>
 <!--RECENT_ACTIVITY:end-->
