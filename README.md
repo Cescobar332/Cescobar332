@@ -27,5 +27,4 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Cescobar332/curso_reactjs](https://github.com/Cescobar332/curso_reactjs)<br>
 2. ⬆️ Pushed undefined commit(s) to [Cescobar332/curso_reactjs](https://github.com/Cescobar332/curso_reactjs)<br>
-3. ⬆️ Pushed undefined commit(s) to [Cescobar332/curso_apis_dotnet_swagger_dapper_sqlserver](https://github.com/Cescobar332/curso_apis_dotnet_swagger_dapper_sqlserver)<br>
 <!--RECENT_ACTIVITY:end-->
