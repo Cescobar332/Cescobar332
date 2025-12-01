@@ -26,5 +26,4 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Cescobar332/curso_reactjs](https://github.com/Cescobar332/curso_reactjs)<br>
-2. ⬆️ Pushed undefined commit(s) to [Cescobar332/curso_reactjs](https://github.com/Cescobar332/curso_reactjs)<br>
 <!--RECENT_ACTIVITY:end-->
